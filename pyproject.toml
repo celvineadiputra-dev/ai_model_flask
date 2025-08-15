@@ -1,0 +1,12 @@
+[project]
+name = "diabetes-model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.1",
+    "joblib>=1.5.1",
+    "numpy>=2.3.2",
+    "scikit-learn==1.6.1",
+]
