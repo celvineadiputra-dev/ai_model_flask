@@ -37,3 +37,7 @@ gunicorn --workers 4 --bind 127.0.0.1:8000 serve:app --daemon
 pkill gunicorn
 ```
 
+# MODEL GUNTING_BATU_KERTAS
+```text
+https://drive.google.com/file/d/1mWRO3eRArrj3JLzNIVZcKdK5xgawUCZ0/view?usp=sharing
+```
